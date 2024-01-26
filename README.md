@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schiban&theme=javascript&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=640&background=00000019&ring=ADBAC7&fire=ADBAC7&dates=8EBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7&stroke=EB545400&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schiban&theme=javascript&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=100&background=22272E&ring=FF9501&fire=FFC801&dates=ADBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&currStreakNum=FFC801&sideNums=ADBAC7&stroke=EB545400&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 <!--
