@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=schiban&color=grey)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schiban&theme=javascript&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=500&background=00000019&ring=39D353&fire=39D353&dates=39D353&currStreakLabel=39D353&sideLabels=39D353&currStreakNum=39D353&sideNums=39D353&stroke=EB545400&hide_longest_streak=true)](https://git.io/streak-stats)
+
 
 <!--
 **schiban/schiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
